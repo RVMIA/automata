@@ -1,8 +1,8 @@
 all: life seeds brian
 
 life: life.c
-	gcc life.c -o life -lraylib
+	gcc life.c -o life.out -lraylib
 seeds: seeds.c
-	gcc seeds.c -o seeds -lraylib
+	gcc seeds.c -o seeds.out -lraylib
 brian: brian.c
-	gcc brian.c -o brian -lraylib
+	gcc brian.c -o brian.out -lraylib
