@@ -1,0 +1,1 @@
+# A compilation of various cellular automata
