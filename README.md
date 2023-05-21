@@ -2,7 +2,7 @@
 
 Conway's Game of life\
 Seeds\
-Brian's Brain\
+Brian's Brain
 
 # Dependencies
 Raylib
