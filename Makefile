@@ -6,3 +6,6 @@ seeds: seeds.c
 	gcc seeds.c -o seeds.out -lraylib
 brian: brian.c
 	gcc brian.c -o brian.out -lraylib
+
+clean:
+	rm -rf *.out
